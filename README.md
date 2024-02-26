@@ -46,7 +46,7 @@ body{font-size:20px;}
         <li>Cats play fight because they need to<br> practice actual hunting </li>
         <li>Cats meow so much because it means<br> that they want something, not an expression</li>
         <li>The reason cats like laser pointers is because<br> they see the light alive and worth caching</li>
-  </ol> <img id="catimg2"src="small wild cats https://g.co/kgs/Uy23sGN" alt="a wild cat image">
+  </ol> <img id="catimg2"  src="small wild cats https://g.co/kgs/Uy23sGN" alt="a wild cat image">
   </p>
   </body>
 </html>
