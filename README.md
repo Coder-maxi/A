@@ -19,6 +19,8 @@ position:absolute;
   left:910px;
   top:10px;}
 #header{font-weight:bold;}
+
+  
 #funfact{
   position:absolute;
   left:910px;
@@ -30,7 +32,7 @@ body{font-size:20px;}
 </style>
 <head><h1 class="header" id="first header">All About Cats</h1>
   </head><body>
-  <p>Cats are mammals that hunt vermin and rodents<br> such as mice. They, just like humans,when young<br> don't open their eyes yet<br>(or at least untill they are 3 weeks old).</p>
+  <p id="para">Cats are mammals that hunt vermin and rodents<br> such as mice. They, just like humans,when young<br> don't open their eyes yet<br>(or at least untill they are 3 weeks old).</p>
    <img src="40,000+ Best Free Cat Pictures & Images [HD] - Pixabay https://g.co/kgs/LB5ueJn" id="catimage1" alt="a cat image">
   <p id="second-para">Some cats are wild cats they include
 ...</p>
