@@ -4,15 +4,15 @@ top:10px; left:320px;
 z-index=0}
 #second-para{
 position:absolute;
-  left:510px; 
+  left:515px; 
   top:10px;}
 #big-cats-list{
   position:absolute;
-  left:510px;
+  left:515px;
   top:30px;}
 #explan{
   position:absolute;
-  left:510px;
+  left:515px;
   top:120px;}
 #fun{
   position:absolute;
