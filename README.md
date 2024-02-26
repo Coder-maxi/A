@@ -26,11 +26,11 @@ position:absolute;
   #catimg2{position:absolute;
     left:650px;
     top:60px;}
-body{font-size:20px;
+body{font-size:20px;}
 </style>
 <head><h1 class="header" id="first header">All About Cats</h1>
   </head><body>
-  <p>Cats are mammals that hunt vermin and rodents<br> such as mice. They, just like humans,when young<br> don't open their eyes yet<br>(or at least untill they are 3 weeks old).
+  <p>Cats are mammals that hunt vermin and rodents<br> such as mice. They, just like humans,when young<br> don't open their eyes yet<br>(or at least untill they are 3 weeks old).</p>
    <img src="40,000+ Best Free Cat Pictures & Images [HD] - Pixabay https://g.co/kgs/LB5ueJn" id="catimage1" alt="a cat image">
   <p id="second-para">Some cats are wild cats they include
 ...</p>
@@ -39,7 +39,7 @@ body{font-size:20px;
     <li>Lions</li>
     <li>Cheetahs</li>
   </ul>
-    <p id="explan">These cats are <span class="vocabular">non-domesticated</span> and don't<br> have owners. Since wild cats are<br> big they are sometimes called big cats.</p>
+    <p id="explan">These cats are wild and don't<br> have owners. Since wild cats are<br> big they are sometimes called big cats.</p>
   <p id="fun"><span id="header">Fun facts</span> 
     <ol id=funfact>
         <li>Cats like milk because it has a ton of fats</li>
